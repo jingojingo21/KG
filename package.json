@@ -1,0 +1,23 @@
+{
+  "name": "kurtgeigertest",
+  "version": "1.0.0",
+  "description": "Please follow the steps to run tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "cucumber": "cucumber-js"
+  },
+  "author": "Usha",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^5.1.0",
+    "i": "^0.3.6",
+    "mocha": "^5.2.0",
+    "npm": "^6.7.0",
+    "rimraf": "^2.6.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
